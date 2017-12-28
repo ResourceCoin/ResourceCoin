@@ -1,0 +1,9 @@
+Building ResourceCoin
+
+See doc/readme-qt.rst for instructions on building ResourceCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ResourceCoin.
+
+See doc/build-*.txt for instructions on building resourcecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ResourceCoin.

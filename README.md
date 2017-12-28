@@ -1,12 +1,19 @@
 
 ![ResourceCoin](https://preview.ibb.co/fm1e4w/big.png)
 
+
 RPC port	30712
+
 P2P port	30711
+
 Block reward	21 coins
+
 Total coin supply	9800000 coins
+
 Premine percent	10%
+
 Premine amount	980000 coins
+
 
 ResourceCoin development tree
 

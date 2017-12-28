@@ -1,5 +1,5 @@
 
-![ResourceCoin](https://ibb.co/daqHrb)
+![ResourceCoin](https://preview.ibb.co/fm1e4w/big.png)
 
 RPC port	30712
 P2P port	30711
